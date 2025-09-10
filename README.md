@@ -1,6 +1,5 @@
 
 👋 Hello, I'm Zuhayr Adams
-Welcome to my data science portfolio!
 
 ## 📓 Mini Bio
 I’m an aspiring data scientist with a passion for finance and storytelling through data. My love for movies has shaped the way I think about analysis: films often end on cliffhangers, and while waiting for the next release, I find myself overanalyzing the plot, characters, and clues to predict what might happen next. This same curiosity drives my approach to data science—using available information to ask questions, test ideas, and forecast future outcomes. Now, I want to apply this mindset to financial data to uncover insights that can guide smarter decisions.  
@@ -24,7 +23,10 @@ I’m an aspiring data scientist with a passion for finance and storytelling thr
 
 ## 📂 Projects
 - [Market Trend Prediction Model] *(coming soon)*  
-- [Financial Dashboard] *(coming soon)*  
+- [Financial Dashboard] *(coming soon)*
 
-out my projects here or connect with me on GitHub!
+---
+
+## 📫 Connect
+Feel free to check out my projects here or connect with me on GitHub!
 
