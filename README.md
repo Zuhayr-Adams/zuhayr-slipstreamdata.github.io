@@ -31,5 +31,5 @@ I’m an aspiring data scientist with a passion for finance and storytelling thr
 ---
 
 ## 📫 Connect
-Feel free to check out my projects here or connect with me on GitHub and my oersonal Github Account (github.com//ZuzutheDataGuy)
+Feel free to check out my projects here or connect with me on GitHub or/and you can view my projects on my personal Github Account (github.com//ZuzutheDataGuy)
 
